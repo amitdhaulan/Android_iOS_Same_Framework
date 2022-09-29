@@ -37,6 +37,7 @@ public class ApplicantDetailsNegative extends AppiumController {
     public void applicantDetailsNegative(SignupDetailsPOJO signupDetailsPOJO1) throws InterruptedException, FileNotFoundException {
 
         if (negativeSwitch) {
+            System.out.print("Amit");
             //Initialize objects
             initializeObjects();
             // this.signupDetailsPOJO = signupDetailsPOJO1;
