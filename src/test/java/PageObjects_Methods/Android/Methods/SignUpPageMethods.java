@@ -1,7 +1,7 @@
 package PageObjects_Methods.Android.Methods;
 
 import AppiumSupport.AppiumController;
-import AppiumSupport.ScrollPage;
+import Common.ScrollPage;
 import PageObjects_Methods.Android.Objects.SignUpPageObjects;
 import PageObjects_Methods.Android.Objects.SignupDetailsPOJO;
 import org.openqa.selenium.support.PageFactory;
